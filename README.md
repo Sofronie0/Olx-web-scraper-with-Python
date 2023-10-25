@@ -85,7 +85,7 @@ For proper use, it's recommended that all the files are located in the same dire
         - using regular expressions, searches for the listing description in the html and returns it
 
 ### Contributions
-This project was developed solely by [Andrei-Laureţiu Sofronie](https://github.com/Sofronie0) using knowledge acquired from CS50's Introduction to Programming with Python (CS50P), personal expertise and research.
+This project was developed solely by [Andrei-Laureţiu Sofronie](https://github.com/Sofronie0).
 
 
 ##### Questions and Contact
