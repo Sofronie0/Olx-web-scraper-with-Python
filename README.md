@@ -24,6 +24,8 @@ In the end, the user will get an `output.csv` file that he can use as is or can 
 
 **Note:** This program appends to the output.csv all new data. If the output.csv file is present in the same directory as the program, it will append all the data from the listings to the same file, leaving the responsability to the user to use Excel (example in the video) or other program to filter out duplicates (in case the listings from the previous run of the program are the same as the listings from the current run of the program). If there isn't an output.csv file in the same directory, the program will write a new output.csv file, containing the header + the data.
 
+**Using the same directory**: In case the output.csv file does not appear in the same directory as project.py, do not worry. It is being saved in the directory that you are in at the moment. In order for it to be created in the same directory, use `cd` to enter in the directory that has project.py and then call out `python project.py`.
+
 If there are any **errors**, ensure you have the required dependencies installed. You can install them using the following command:
 ``` console
 pip install -r requirements.txt
