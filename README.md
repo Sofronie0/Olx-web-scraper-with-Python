@@ -1,6 +1,6 @@
 # Olx listings web scraper with Python
 
-## Project description
+## Project description 
 This program takes as input a search query, takes all the listings from Olx that match the search query and returns for every listing each listing's ID, posting date, title, price, currency, the seller's name, the date at which the seller has registered on Olx, the listing description and the listing's link. All these elements are appended into a .csv file.
 
 The purpose of this project was creating an automated program that, when launched and given a specific search query, it will return in a .csv file all the data that was specified. This way, the user can create his own .csv file containing all the listings from Olx for a certain item at a certain date, allowing him to keep track of price changes over time, the average price of the item etc.
